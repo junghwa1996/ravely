@@ -51,3 +51,6 @@ input[type="submit"] {
     cursor: pointer; /* 3 */
     *overflow: visible;  /* 4 */
 }
+a{
+    text-decoration: none;
+}
